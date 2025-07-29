@@ -17,7 +17,7 @@ prophet==1.1.5
 
 # --- LSTM / Deep Learning ---
 tensorflow==2.16.1
-keras==2.16.0
+
 scikit-learn==1.5.0
 
 # --- Other Utilities ---
