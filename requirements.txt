@@ -1,0 +1,24 @@
+# --- Core Framework ---
+streamlit==1.35.0
+
+# --- Data Handling ---
+pandas==2.2.2
+numpy==1.26.4
+
+# --- Plotting ---
+plotly==5.22.0
+
+# --- ARIMA / SARIMA ---
+pmdarima==2.0.4
+statsmodels==0.14.1
+
+# --- Prophet Model ---
+prophet==1.1.5
+
+# --- LSTM / Deep Learning ---
+tensorflow==2.16.1
+keras==2.16.0
+scikit-learn==1.5.0
+
+# --- Other Utilities ---
+python-dateutil==2.9.0.post0
